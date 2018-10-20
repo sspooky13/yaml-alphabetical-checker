@@ -5,6 +5,8 @@
 [![Build Status](https://travis-ci.org/sspooky13/yaml-alphabetical-checker.svg?branch=master)](https://travis-ci.org/sspooky13/yaml-alphabetical-checker)
 [![Build status](https://ci.appveyor.com/api/projects/status/rw89r5m32827vh2d/branch/master?svg=true)](https://ci.appveyor.com/project/sspooky13/yaml-alphabetical-checker/branch/master)
 
+### This repository is unmaintained and deprecated. I recommend [yaml standards repository](https://github.com/sspooky13/yaml-standards)
+
 This library helps you to keep YAML files alphabetically sorted.
 
 ## Requirements
